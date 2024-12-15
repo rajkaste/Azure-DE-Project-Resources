@@ -1,5 +1,0 @@
-Branch_ID,Dealer_ID,Model_ID,Revenue,Units_Sold,Date_ID,Day,Month,Year,BranchName,DealerName,Product_Name
-BR9786,DLR0064,Ram-M14,3249720,2,DT00152,1,6,2020,Reliant Motors,Ford Europe Motors,Ram
-BR9846,DLR0065,Ram-M15,6149964,3,DT00153,2,6,2020,Renault Motors,Ford India Motors,Ram
-BR9966,DLR0067,For-M17,1826432,1,DT00155,4,6,2020,Rolls-Royce Motors,FSO Motors,Picka
-BR9966,DLR0067,For-XYZ,1000000,3,DT00156,4,6,2020,New-Motors,NewDealer,Truck
